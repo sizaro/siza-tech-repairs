@@ -129,13 +129,18 @@ footer a{
         align-items: center;
     }
 
+    .site-name{
+        position: relative;
+        margin-right: 12rem;
+    }
+
     .menu{
         position: absolute;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        margin-left: 11rem;
+        margin-left: 14rem;
         width: 33px;
         height: 20px;
         background-color: gray;
@@ -219,7 +224,7 @@ footer a{
     
     .call-button p{
         color: white;
-        padding: 0 10px;
+        padding: 0 6px;
     }
     
     .electronics-container1{
