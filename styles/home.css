@@ -131,7 +131,11 @@ footer a{
 
     .site-name{
         position: relative;
-        margin-right: 12rem;
+        margin-right: 9rem;
+    }
+
+    .site-name h3{
+        font-size: 0.8rem;
     }
 
     .menu{
