@@ -220,11 +220,13 @@ footer a{
         bottom: 20px;
         background-color: green;
         left: 40px;
+        border-radius: 10px;
     }
     
     .call-button p{
         color: white;
-        padding: 0 6px;
+        padding: 0 8px;
+        font-size: 0.7rem;
     }
     
     .electronics-container1{
